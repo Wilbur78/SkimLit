@@ -1,7 +1,5 @@
 # SkimLit NLP PubMed Abstract Summarizer
 
-# Milestone Project
-
 The purpose of this notebook is to build an NLP model to make reading medical abstracts easier. The paper we're replicating (the source of the dataset we'll be using) is available here:
 
 *https://arxiv.org/abs/1710.06071*
