@@ -1,4 +1,4 @@
-# SkimLit
+# SkimLit NLP PubMed Abstract Summarizer
 
 # Milestone Project
 
